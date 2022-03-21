@@ -1,0 +1,5 @@
+Testcase: edu.umb.cs680.hw04.FIFOFileCacheTest
+Test: GETFILE1() took 169 milli sec(s)
+Test: GETFILE2() took 47 milli sec(s)
+Test: GETFILE3() took 3 milli sec(s)
+Tests run: 3, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 294 milli sec(s)
