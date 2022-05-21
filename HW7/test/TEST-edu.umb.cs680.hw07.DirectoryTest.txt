@@ -1,0 +1,11 @@
+Testcase: edu.umb.cs680.hw07.DirectoryTest
+Test: DirTestRoot() took 55 milli sec(s)
+Test: SubDirTestHome() took 3 milli sec(s)
+Test: VerifyDERoot() took 9 milli sec(s)
+Test: LinkTestHome() took 1 milli sec(s)
+Test: LinkTestRoot() took 4 milli sec(s)
+Test: LinkTestPicture() took 1 milli sec(s)
+Test: CountCtestHome() took 1 milli sec(s)
+Test: FileTestHome() took 1 milli sec(s)
+Test: FileTestRoot() took 1 milli sec(s)
+Tests run: 9, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 136 milli sec(s)

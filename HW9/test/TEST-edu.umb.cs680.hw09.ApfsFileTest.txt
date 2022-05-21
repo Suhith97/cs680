@@ -1,0 +1,7 @@
+Testcase: edu.umb.cs680.hw09.ApfsFileTest
+Test: LinkTestofB() took 2 milli sec(s)
+Test: VerifyFEofA() took 0 milli sec(s)
+Test: VerifyFEofX() took 1 milli sec(s)
+Test: DirTestofB() took 0 milli sec(s)
+Test: FileTestofB() took 0 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 9 milli sec(s)

@@ -1,0 +1,5 @@
+Testcase: edu.umb.cs680.hw06.FileTest
+Test: VerifyFEofA() took 2 milli sec(s)
+Test: VerifyFEofX() took 1 milli sec(s)
+Test: DirTestwithB() took 9 milli sec(s)
+Tests run: 3, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 22 milli sec(s)

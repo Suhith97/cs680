@@ -1,0 +1,13 @@
+Testcase: edu.umb.cs680.hw06.DirectoryTest
+Test: GetFileTestwithPic() took 97 milli sec(s)
+Test: GetSubDirtestwithRoot() took 21 milli sec(s)
+Test: AppendCtestwithHome() took 0 milli sec(s)
+Test: AppendCtestwithroot() took 1 milli sec(s)
+Test: VerifyDEhome() took 0 milli sec(s)
+Test: VerifyDEroot() took 0 milli sec(s)
+Test: CountCtestwithHome() took 1 milli sec(s)
+Test: CountCtestwithroot() took 7 milli sec(s)
+Test: GetFiletestwithHome() took 0 milli sec(s)
+Test: getSubDirectoriesTestingWithRoot() took 0 milli sec(s)
+Test: DtestWithroot() took 4 milli sec(s)
+Tests run: 11, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 269 milli sec(s)

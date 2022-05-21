@@ -1,0 +1,8 @@
+Testcase: edu.umb.cs680.hw09.ApfsLinkTest
+Test: LinkTestofM() took 1 milli sec(s)
+Test: VerifyLEofM() took 0 milli sec(s)
+Test: VerifyLEofN() took 1 milli sec(s)
+Test: DirTestofM() took 0 milli sec(s)
+Test: TargetTestofM() took 0 milli sec(s)
+Test: FileTestofM() took 1 milli sec(s)
+Tests run: 6, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 6 milli sec(s)

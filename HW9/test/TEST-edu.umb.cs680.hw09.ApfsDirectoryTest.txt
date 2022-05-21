@@ -1,0 +1,11 @@
+Testcase: edu.umb.cs680.hw09.ApfsDirectoryTest
+Test: DirTestRoot() took 5 milli sec(s)
+Test: LinkTestPictures() took 1 milli sec(s)
+Test: AppendChildTestHome() took 1 milli sec(s)
+Test: AppendChildTestRoot() took 1 milli sec(s)
+Test: VerifyDEHome() took 18 milli sec(s)
+Test: VerifyDERoot() took 1 milli sec(s)
+Test: CountChildTestRoot() took 1 milli sec(s)
+Test: LinkTestHome() took 1 milli sec(s)
+Test: FileTestHome() took 0 milli sec(s)
+Tests run: 9, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 32 milli sec(s)

@@ -1,0 +1,10 @@
+Testcase: edu.umb.cs680.hw08.ApfsDirectoryTest
+Test: GetLinkTestWithHome() took 1 milli sec(s)
+Test: GetSubDirTestWithHome() took 2 milli sec(s)
+Test: VerifyDEHome() took 28 milli sec(s)
+Test: VerifyDEroot() took 1 milli sec(s)
+Test: CountCtestwithHome() took 1 milli sec(s)
+Test: CountCTestWithroot() took 7 milli sec(s)
+Test: GetFileTestWithHome() took 2 milli sec(s)
+Test: GetLinkTestWithPic() took 2 milli sec(s)
+Tests run: 8, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 62 milli sec(s)

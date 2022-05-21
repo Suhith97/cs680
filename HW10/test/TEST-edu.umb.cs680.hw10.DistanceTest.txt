@@ -1,0 +1,10 @@
+Testcase: edu.umb.cs680.hw10.DistanceTest
+Test: MatrixPLAndChebyshev() took 4 milli sec(s)
+Test: P1P2AndManhattan() took 1 milli sec(s)
+Test: MatrixPLAndEuclidean() took 2 milli sec(s)
+Test: P1P2AndChebyshev() took 0 milli sec(s)
+Test: DefMatrixwithList() took 0 milli sec(s)
+Test: P1P2AndEuclidean() took 0 milli sec(s)
+Test: DefaultP1P2() took 0 milli sec(s)
+Test: MatrixPLAndManhattan() took 0 milli sec(s)
+Tests run: 8, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 19 milli sec(s)
