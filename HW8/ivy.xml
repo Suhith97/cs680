@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+   Licensed to the Apache Software Foundation (ASF) under one
+   or more contributor license agreements.  See the NOTICE file
+   distributed with this work for additional information
+   regarding copyright ownership.  The ASF licenses this file
+   to you under the Apache License, Version 2.0 (the
+   "License"); you may not use this file except in compliance
+   with the License.  You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing,
+   software distributed under the License is distributed on an
+   "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+   KIND, either express or implied.  See the License for the
+   specific language governing permissions and limitations
+   under the License.    
+-->
+<ivy-module version="2.0">
+	<info organisation="cs680" module="junit5"/>
+	<dependencies>
+		<!-- Visit https://mvnrepository.com/ to search a JAR library file that you
+		     want to use. Look into its pom.xml.  
+		     org: "groupId" in pom.xml
+		     name: "artifactId" in pom.xml
+		     rev: "version" in pom.xml
+		-->
+        <dependency org="org.junit.jupiter" name="junit-jupiter-api" rev="5.8.2"/>
+        <dependency org="org.junit.jupiter" name="junit-jupiter-engine" rev="5.8.2"/>
+		<dependency org="org.junit.jupiter" name="junit-jupiter-params" rev="5.8.2"/>
+
+		<dependency org="org.junit.platform" name="junit-platform-commons" rev="1.8.2"/>
+		<dependency org="org.junit.platform" name="junit-platform-engine" rev="1.8.2"/>
+		<dependency org="org.junit.platform" name="junit-platform-launcher" rev="1.8.2"/>
+		<dependency org="org.junit.platform" name="junit-platform-runner" rev="1.8.2"/>
+		<dependency org="org.junit.platform" name="junit-platform-suite-api" rev="1.8.2"/>
+
+		<dependency org="org.apiguardian" name="apiguardian-api" rev="1.1.2"/>
+		<dependency org="org.opentest4j" name="opentest4j" rev="1.2.0"/>
+    </dependencies>
+</ivy-module>	
